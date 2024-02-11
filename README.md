@@ -3,8 +3,9 @@ A custom Valorant auncher with multi account support. Written purely in python a
 
 # Future Plans
 - Add option to store config which can be imported with the settings
-- Reconstruct Gui and a better interface
+- ~~Reconstruct Gui and a better interface~~
 - Add progress bar when fetching details for accounts
+- Auto fetch username#tag
 
 # Screenshots
 
